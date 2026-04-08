@@ -1,6 +1,6 @@
 ---
 name: signal
-description: Control Lovense toys via the local Lovense Remote API. Use when asked to vibrate, buzz, pulse, wave, or stop connected toys.
+description: Control Lovense toys via the local Lovense Remote API. Use when asked to vibrate, buzz, tease, pulse, wave, stop toys, control toys, or during interactive sessions where toy control is appropriate.
 ---
 
 # Signal — Lovense Toy Control
